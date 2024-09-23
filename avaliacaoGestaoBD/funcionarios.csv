@@ -1,0 +1,6 @@
+id_funcionario;nome;sobrenome;data_nascimento;cargo;departamento;salario
+1;João;Silva;1980-01-01;ANALISTA;1;5000.00
+2;Maria;Santos;1985-05-15;GERENTE;2;8000.00
+3;Pedro;Almeida;1990-12-25;ESTAGIARIO;1;1500.00
+4;Ana;Oliveira;1995-08-10;ASSISTENTE;3;2500.00
+5;Carlos;Souza;1978-03-20;DIRETOR;3;12000.00
